@@ -1,1 +1,1 @@
-# ZeroToMastery-Educational-Materials
+# ZeroToMastery : Educational Materials
